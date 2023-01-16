@@ -66,7 +66,7 @@ yarn add @pankod/refine-react-table @pankod/refine-react-hook-form
 
 </Tabs>
 
-Then, we need to add the `<HeadlessInferencer/>` component is used by passing to appropriate values in the `resources` prop of the `<Refine/>` component in `App.tsx` as shown below:
+Then, we need to ensure the `<HeadlessInferencer/>` component is used by passing to appropriate values in the `resources` prop of the `<Refine/>` component in `App.tsx` as shown below:
 
 :::info
 
